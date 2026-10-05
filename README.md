@@ -15,6 +15,3 @@ A simple Python program that converts weight between **kilograms (kg)** and **po
 
 ## ▶️HOW TO RUN
 1. Youn Can Run by opening it in Google Collab ( Link : https://colab.research.google.com/drive/1g6VQLFlq64DmwLoVBudUAdL3s6LSushh?usp=sharing )
-
-```bash
-python main.py
